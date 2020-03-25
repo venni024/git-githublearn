@@ -1,2 +1,2 @@
 # git-githublearn
-This is for learning purpose - master - brach2
+This is for tutorial purpose
